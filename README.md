@@ -29,3 +29,5 @@ Could not create the Java virtual machine.
 Exception in thread "main" java.lang.OutOfMemoryError: GC overhead limit exceeded
 
 
+[2019-11-12 11:56:38][ERROR][][]  - java.sql.SQLRecoverableException: IO 錯誤: The Network Adapter could not establish the connection
+java.sql.SQLRecoverableException: IO 錯誤: The Network Adapter could not establish the connection
